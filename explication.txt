@@ -14,3 +14,9 @@ Vocabulaire:
 -repository : dépôt GIT
 petite lettres: u à coté du nom du fichier:
 -u untrached => GIT ne prend pas en compte ce fichier.
+g git add <fichier : permet dans l'index/staging area
+ : l'endrois ou se trouve les fichiers après avoir éxecuté la commande git add => ces fichiers sont en attente de commit
+ commit ; version projet
+ commiter : crer une version du projet
+   git commit  -m "message" : créer une version du projet en indiquent un message.
+   git status : affiche le statut du dépôt(fichier  en attente d'ajout, fichiers en attente de commit...)
