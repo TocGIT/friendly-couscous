@@ -20,3 +20,4 @@ g git add <fichier : permet dans l'index/staging area
  commiter : crer une version du projet
    git commit  -m "message" : créer une version du projet en indiquent un message.
    git status : affiche le statut du dépôt(fichier  en attente d'ajout, fichiers en attente de commit...)
+   -m : modified => fichier déja tracké par GIT et qu a été modifier depui sa dreniére version
