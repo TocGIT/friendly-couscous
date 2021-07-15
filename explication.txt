@@ -1,0 +1,16 @@
+DECOUVERTE DE GIT
+GIT est un outil de Versionning, c'est ce qu'onappelle un VCS(version control systeme).
+il permet d'avoir plusieur versions des fichiers qui composent une application(site web app web)
+et ainsi travailler en équipe tout en gardant les historiques (versions) des fichiers sur lesquels on travaille.
+GIT doit être installé et utilisé sur le pc client et serveur.
+il existe plusieurs concurrents de GIT (SVN par ex) mais GIT est plus utilisé.
+
+GITHUB est ce qu'on appelle un hébergeur de repositories GIT. c'est-a dire qu'il se charge d'héberger les versions de notre application et ainsi nous pouvons y accéder en ligne . Il existe plusieurs hébergeurs (GITBUCKET par ex)
+mais GITUB est le plus utilisé.
+****
+Vocabulaire:
+
+-repository : dépôt GIT
+-repository : dépôt GIT
+petite lettres: u à coté du nom du fichier:
+-u untrached => GIT ne prend pas en compte ce fichier.
